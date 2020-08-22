@@ -4,4 +4,7 @@ Kheer
 Pasta
 Halwa 
 
+Aloo
+Puri
+
 Thanks :)
